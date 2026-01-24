@@ -1,5 +1,5 @@
 <h1 align="center" style="margin-top:35">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Mohamed+Ragab!+;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Mohamed+Ahmed!+;" />
 </h1>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Mohamed Ragab,a web developer<br>I’m a front-end web developer with a strong passion for creating visually appealing and userfriendly web applications. I am very passionate about improving my coding skills & developing applications & websites.<br><br>I have also gained a solid foundation in HTML, CSS, JavaScript, and ReactJs. I am always eager to learn new technologies and techniques to enhance my skillset.</p>
+<p align="left">I'm Mohamed Ahmed,a web developer<br>I’m a front-end web developer with a strong passion for creating visually appealing and userfriendly web applications. I am very passionate about improving my coding skills & developing applications & websites.<br><br>I have also gained a solid foundation in HTML, CSS, JavaScript, and ReactJs. I am always eager to learn new technologies and techniques to enhance my skillset.</p>
 
 ###
 
